@@ -6,11 +6,16 @@ User Interface: The project provides a user-friendly interface where users can p
 
 Functionality:
 
-#Add Student Records: Users can enter details such as student name, email, phone number, gender, date of birth, and section to add new student records to the system.
-#View and Delete Records: Users can view a list of existing student records and have the option to delete individual records as needed.
-#Add Assessments: Users can select a student and a course to add assessments for that student. Assessments include midterm, final, and assignment grades.
-#Display Assessment Results: After adding assessments, the application displays the assessment results, including grades, total marks, and whether the student passed or failed.
-#Database Integration: The application integrates with a SQLite database to store student records and assessment data. It utilizes SQL queries to perform operations such as inserting, deleting, and retrieving data from the database.
+# Add Student Records: 
+   Users can enter details such as student name, email, phone number, gender, date of birth, and section to add new student records to the system.
+# View and Delete Records: 
+   Users can view a list of existing student records and have the option to delete individual records as needed.
+# Add Assessments: 
+   Users can select a student and a course to add assessments for that student. Assessments include midterm, final, and assignment grades.
+# Display Assessment Results: 
+   After adding assessments, the application displays the assessment results, including grades, total marks, and whether the student passed or failed.
+# Database Integration: 
+  The application integrates with a SQLite database to store student records and assessment data. It utilizes SQL queries to perform operations such as inserting, deleting, and retrieving data from the database.
 
 Error Handling: The project includes error handling mechanisms to validate user inputs and display appropriate error messages if any input is missing or invalid.
 
